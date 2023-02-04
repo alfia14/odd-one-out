@@ -1,0 +1,32 @@
+#question {
+    margin-top: 0px;
+    background-color: #48bb78;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    
+    
+}
+
+#answers ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#answers li {
+    background-color: #fff;
+    border: 2px solid #317c99;
+    min-height: 100px;
+    width: 40%;
+    display: flex;
+
+    cursor: pointer;
+}
