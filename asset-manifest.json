@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odd-one-out/static/css/main.a489f3f0.css",
+    "main.js": "/odd-one-out/static/js/main.ea32d3a2.js",
+    "static/js/787.d4b85624.chunk.js": "/odd-one-out/static/js/787.d4b85624.chunk.js",
+    "index.html": "/odd-one-out/index.html",
+    "main.a489f3f0.css.map": "/odd-one-out/static/css/main.a489f3f0.css.map",
+    "main.ea32d3a2.js.map": "/odd-one-out/static/js/main.ea32d3a2.js.map",
+    "787.d4b85624.chunk.js.map": "/odd-one-out/static/js/787.d4b85624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a489f3f0.css",
+    "static/js/main.ea32d3a2.js"
+  ]
+}
